@@ -1,2 +1,2 @@
-# mygitactions-
-Github Actions CI/CD
+# mygitactions
+GitHub Actions CI/CD
